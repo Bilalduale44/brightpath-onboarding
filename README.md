@@ -41,10 +41,6 @@ Open the app and **pick a persona** on the mock sign-in screen (no password). Us
 | **Jordan Lee** | Manager with **no hires** empty state |
 | **Sarah Chen** | HR overview + Engineering / Sales / baseline sample plans |
 
-Corner control: **Simulate load error** → **Try again**.
-
-Demo “today” is fixed at **2026-11-03** so statuses stay stable in walkthroughs.
-
 ## What’s in / out of scope
 
 See [ASSUMPTIONS.md](./ASSUMPTIONS.md) for guesses, stakeholder tradeoffs, what was left out, and questions for Sarah.
